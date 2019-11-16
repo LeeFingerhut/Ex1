@@ -3,7 +3,6 @@
 
 int main()
 {
-    // Lee Fingerhut 
     double num;
     printf("Please inset a real number: ");
     scanf("%lf", &num);
